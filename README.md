@@ -1,2 +1,2 @@
-# sage-flexbox
-Just the stuff needed to Sage + Flexboxgrid
+# Sagebox
+Just the stuff needed to (Sage)[https://github.com/roots/sage] + (Flexboxgrid)[https://github.com/kristoferjoseph/flexboxgrid]
